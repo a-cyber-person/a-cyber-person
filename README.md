@@ -1,8 +1,9 @@
 # Hi, I'm [Your Name] 👋
 
-### Junior Penetration Tester | Web • Mobile • Network Security
+### Junior Penetration Tester | Web • Mobile 
 
-I help organizations find and fix security weaknesses before attackers do. I also enjoy teaching cybersecurity and writing clear reports that both engineers and executives can act on.
+I help organizations find and fix security weaknesses before attackers do. 
+I also enjoy teaching cybersecurity and writing clear reports that both engineers and executives can act on.
 
 ---
 
