@@ -14,7 +14,6 @@ I also enjoy teaching cybersecurity and writing clear reports that both engineer
 | eLearnSecurity Mobile Application Penetration Tester (eMAPT) | 2026 |
 | eLearnSecurity Junior Penetration Tester (eJPT)              | 2025 |
 | CompTIA Security+ (SY0-701)                                  | 2025 |
-| INE Certified Cloud Associate (ICCA)                         | 2025 |
 | Cisco Certified Network Associate (CCNA)                     | 2023 |
 | Training of Trainers (TOT)                                   | 2023 |
 
