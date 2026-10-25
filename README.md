@@ -24,18 +24,16 @@ I also enjoy teaching cybersecurity and writing clear reports that both engineer
 
 **Penetration Testing**
 
-- Web application and API penetration testing (OWASP Top 10)
+- Web application and API penetration testing
 - Mobile application penetration testing
 
 **Vulnerability Assessment**
 
 - Identifying and validating vulnerabilities
-- Risk analysis and CVSS-based severity rating
 - Writing technical and executive reports with actionable, risk-prioritized mitigation plans
 
 **Training & Communication**
 
-- Designing and delivering technical courses (Networking, Linux, GNS3)
+- Designing and delivering technical courses.
 - Certified trainer (Training of Trainers)
-- Daily collaboration with distributed international teams
 
