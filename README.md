@@ -1,4 +1,4 @@
-# Hi, It's Afnan 👋
+# Hi, It's Afnan.. 👋
 
 ### Junior Penetration Tester | Web • Mobile 
 
